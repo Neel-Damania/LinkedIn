@@ -50,7 +50,7 @@ A **LinkedIn clone** built using **Java Spring Boot** with a **microservices arc
    mvn clean install
    mvn spring-boot:run
    ```
-4. (Optional) Run with Docker:
+4. Run Docker for Kafka Connection:
 
    ```bash
    docker-compose up
